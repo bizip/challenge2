@@ -16,3 +16,11 @@ header{
 #welcome-section{
     padding-top: 20px;
 }
+#projects {
+    height: 50vh;
+    text-align: center;
+
+}
+.container  {
+    margin: 10%;
+}
